@@ -7,7 +7,7 @@ GH_ACCOUNT =	bchretien
 GH_PROJECT =	tcptrack
 GH_TAGNAME =	v1.4.3
 
-MAINTAINER =	Scripter on Daemonforums <your@email.here>
+MAINTAINER =	Scripter on Daemonforums <rh.webadmin@zoho.com>
 #MAINTAINER =	Your Name <your@email.here>
 
 # Repo has a copy of LGPLv2.1
